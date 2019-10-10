@@ -7,11 +7,11 @@ public class ApplicationConfiguration {
 	@RequestMapping("hello")
 	public String hello()
 	{
-		return "Hello from Prem !!!";
+		return "Hello from Prem Shab !!!";
 	}
 	@RequestMapping("welcome")
 	public String welcome()
 	{
-		return "Welcome from Prem !!!";
+		return "Welcome from Mr.Prem !!!";
 	}
 }
